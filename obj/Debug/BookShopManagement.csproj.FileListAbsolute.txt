@@ -1,0 +1,10 @@
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojAssemblyReference.cache
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Antor\source\repos\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
